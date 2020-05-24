@@ -1,0 +1,16 @@
+{
+	"name": "aprila/open-source",
+	"description": "Aprila Toolkit",
+	"keywords": ["utils", "toolkit", "aprila"],
+	"homepage": "https://www.aprila.cz/open-source",
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "Honza Cerny",
+			"homepage": "https://honzacerny.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1.0"
+	}
+}
